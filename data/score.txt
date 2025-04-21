@@ -1,0 +1,1 @@
+{"player": 6, "opponent": 8}
